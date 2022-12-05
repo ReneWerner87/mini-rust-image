@@ -10,4 +10,4 @@
 
 ## Size
 1. `docker images | grep test`
-2. test      latest                                                                       1f983fa883ce   3 minutes ago    1.1MB
+2. test                                                              latest                                                                       2a8dd0fd1382   2 minutes ago    919kB
